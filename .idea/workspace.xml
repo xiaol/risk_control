@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a60b3e-ab25-4ebf-aea0-76948cb72e66" name="Default" comment="" />
+    <list default="true" id="a5a60b3e-ab25-4ebf-aea0-76948cb72e66" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/OP_start-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/OP_start-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OP_start.ipynb" afterPath="$PROJECT_DIR$/OP_start.ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
